@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@CrossOrigin // Allows React to talk to this later
+@CrossOrigin // Allows React to talk 
 @RequestMapping("/api/expenses")
 public class ExpenseController {
 
